@@ -3,7 +3,14 @@
 💻 Desenvolvedor **Java Backend**  
 📱 Curioso em **programação mobile com Flutter**  
 🌐 Explorando o mundo do **frontend com Angular & TypeScript**  
-🚀 Apaixonado por aprender novas tecnologias e construir soluções escaláveis
+🚀 Apaixonado por aprender novas tecnologias e construir soluções escaláveis  
+
+---
+
+## 🌟 Meu Portfólio Online
+
+📌 Confira meus projetos completos e outras criações no meu portfólio:  
+👉 [**Acesse aqui**](https://rzend.github.io/portfolio/) 🚀  
 
 ---
 
