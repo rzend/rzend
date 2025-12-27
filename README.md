@@ -3,7 +3,7 @@
 💻 Desenvolvedor **Java Backend**  
 📱 Curioso em **programação mobile com Flutter**  
 🌐 Explorando o mundo do **frontend com Angular & TypeScript**  
-🚀 Apaixonado por aprender novas tecnologias e construir soluções escaláveis  
+🚀 Apaixonado por aprender novas tecnologias e construir soluções
 
 ---
 
